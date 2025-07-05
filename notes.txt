@@ -1,0 +1,43 @@
+Monolithic architecture
+A monolithic architecture is a traditional software architecture
+pattern where the entire application — frontend, backend, and sometimes
+the database layer— is developed and deployed as a single codebase or executable.
+
+-----------------------------------------------------------------------------------------------------------
+#HTTPRxception : return custom HTTP error responses when something wrong in api
+
+The Path(...) function is used to:
+Declare a required path parameter
+Add description, validation, and OpenAPI docs examples
+
+
+-------------------Pydantic-----------------------------------------------------------------------------------------------------
+Annoted: we can add metadata
+
+@field_validator: Validates a specific field (or multiple fields individually) when parsing data into the model.
+@model_validator: Validates the entire model after all fields have been validated individually.
+You can use this to enforce dependencies between fields or apply model-level logic.
+Use Case:
+You want to validate combinations of fields (e.g., conditional logic like "if x is true, then y must be greater than 10").
+
+computed_feild: By considering other fields it'll get compute value 
+ex. height and weight is given then computed_feild will compute bmi if we initialized it 
+---->Use @computed_field when you want to expose derived data based on existing fields in the model.
+
+
+nested_model: a field in one model contains another BaseModel as its type.
+EX. an Address inside a User
+a ContactDetails model inside a Patient
+USese:1. Better Organization of related data
+      2. Reusability
+      3. Readability
+      4. Validation
+
+
+exclude_unset=True tells Pydantic to exclude any fields that were not set when the model was created.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Response Model : Structure of the output data

@@ -1,0 +1,22 @@
+{
+  "patient_1": { "name": "Amit Verma", "city": "Delhi", "age": 28, "gender": "Male", "height": 170, "weight": 65, "bmi": 22.5, "verdict": "Healthy" },
+  "patient_2": { "name": "Sneha Patil", "city": "Pune", "age": 24, "gender": "Female", "height": 160, "weight": 75, "bmi": 29.3, "verdict": "Overweight" },
+  "patient_3": { "name": "Rahul Mehta", "city": "Mumbai", "age": 32, "gender": "Male", "height": 175, "weight": 85, "bmi": 27.8, "verdict": "Overweight" },
+  "patient_4": { "name": "Anjali Sharma", "city": "Chennai", "age": 45, "gender": "Female", "height": 155, "weight": 60, "bmi": 24.9, "verdict": "Healthy" },
+  "patient_5": { "name": "Vikram Singh", "city": "Jaipur", "age": 35, "gender": "Male", "height": 180, "weight": 95, "bmi": 29.3, "verdict": "Overweight" },
+  "patient_6": { "name": "Priya Nair", "city": "Kochi", "age": 30, "gender": "Female", "height": 158, "weight": 45, "bmi": 18.0, "verdict": "Underweight" },
+  "patient_7": { "name": "Manoj Yadav", "city": "Lucknow", "age": 40, "gender": "Male", "height": 172, "weight": 72, "bmi": 24.3, "verdict": "Healthy" },
+  "patient_8": { "name": "Ritu Das", "city": "Kolkata", "age": 27, "gender": "Female", "height": 162, "weight": 68, "bmi": 25.9, "verdict": "Slightly Overweight" },
+  "patient_9": { "name": "Ramesh Tiwari", "city": "Bhopal", "age": 55, "gender": "Male", "height": 168, "weight": 80, "bmi": 28.3, "verdict": "Overweight" },
+  "patient_10": { "name": "Kavita Joshi", "city": "Ahmedabad", "age": 22, "gender": "Female", "height": 163, "weight": 55, "bmi": 20.7, "verdict": "Healthy" },
+  "patient_11": { "name": "Neeraj Kumar", "city": "Patna", "age": 29, "gender": "Male", "height": 178, "weight": 76, "bmi": 23.9, "verdict": "Healthy" },
+  "patient_12": { "name": "Divya Rani", "city": "Hyderabad", "age": 26, "gender": "Female", "height": 157, "weight": 59, "bmi": 24.0, "verdict": "Healthy" },
+  "patient_13": { "name": "Arjun Kapoor", "city": "Nagpur", "age": 31, "gender": "Male", "height": 182, "weight": 100, "bmi": 30.2, "verdict": "Obese" },
+  "patient_14": { "name": "Sunita Mishra", "city": "Varanasi", "age": 36, "gender": "Female", "height": 160, "weight": 80, "bmi": 31.2, "verdict": "Obese" },
+  "patient_15": { "name": "Aarav Jain", "city": "Indore", "age": 23, "gender": "Male", "height": 175, "weight": 68, "bmi": 22.2, "verdict": "Healthy" },
+  "patient_16": { "name": "Pooja Singh", "city": "Ranchi", "age": 34, "gender": "Female", "height": 159, "weight": 72, "bmi": 28.5, "verdict": "Overweight" },
+  "patient_17": { "name": "Harsh Vardhan", "city": "Chandigarh", "age": 41, "gender": "Male", "height": 173, "weight": 88, "bmi": 29.4, "verdict": "Overweight" },
+  "patient_18": { "name": "Meena Kaur", "city": "Amritsar", "age": 38, "gender": "Female", "height": 161, "weight": 58, "bmi": 22.4, "verdict": "Healthy" },
+  "patient_19": { "name": "Suresh Desai", "city": "Surat", "age": 47, "gender": "Male", "height": 169, "weight": 102, "bmi": 35.7, "verdict": "Obese" },
+  "patient_20": { "name": "Anita Roy", "city": "Bhubaneswar", "age": 25, "gender": "Female", "height": 165, "weight": 49, "bmi": 18.0, "verdict": "Underweight" }
+}
